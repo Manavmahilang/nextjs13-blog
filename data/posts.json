@@ -1,0 +1,21 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Post 1",
+        "image": "/images/post1.jpg",
+        "content": "Lorem ipsum dolor sit amet.",
+        "createdBy": "John Doe",
+        "createdAt": "2022-04-05T12:34:56.789Z"
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "image": "/images/post2.jpg",
+        "content": "Lorem ipsum dolor sit amet.",
+        "createdBy": "Jane Smith",
+        "createdAt": "2022-04-04T23:45:01.234Z"
+      }
+    ]
+  }
+  
