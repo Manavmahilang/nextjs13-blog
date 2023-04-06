@@ -9,7 +9,7 @@ type Post = {
   title: string;
   sDescription: string;
   content: string;
-  image: string; // add image property
+  image: string; 
 };
 
 type Props = {};

@@ -35,8 +35,8 @@ const Navbar = () => {
                         <>
                             <Link
                                 className={buttonVariants({ variant: 'ghost' })}
-                                href='/dashboard'>
-                                Dashboard
+                                href='/admin'>
+                                Admin control
                             </Link>
                             <SignOutButton />
                         </>
